@@ -1,0 +1,1 @@
+{'i am a goob boy': [('i', 'PRON'), ('am', 'AUX'), ('a', 'DET'), ('goob', 'NOUN'), ('boy', 'NOUN')]}
